@@ -1,6 +1,8 @@
+---
 layout: page
 title: Fun House - Privacy Policy
 permalink: /privacy/
+---
 
 # Fun House Privacy Policy
 
