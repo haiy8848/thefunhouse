@@ -1,6 +1,6 @@
 ## Welcome to The Fun House
 
-![Magic Fun House](main.png)
+![Magic Fun House](landscape.png)
 
 Have you ever thought about tucking everything away after a long day 
 but only listening to the melody coming out from the music box?
